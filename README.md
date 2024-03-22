@@ -1,9 +1,8 @@
 <h1><center>Spotify</center></h1>
 
-![Apresentação do Projeto](https://cdn.discordapp.com/attachments/676092922264944650/1220552634801459331/Spotify.png?ex=660f5b38&is=65fce638&hm=f1ac9a9ab6789d6578f90833e1be68721e8cefe6a87980918f319ff5009545a2&)
+![Interface feita do Spotify](https://cdn.discordapp.com/attachments/676092922264944650/1220557357076189184/Teste.png?ex=660f5f9e&is=65fcea9e&hm=596ffe829c35a53e2ecfaf0266a40fd3c1abe6432afc9069d9317f01538eb748&)
 
 ## Quais linguagens foram usadas nesse projeto?
-- HTML;
 - CSS;
-- Java;
-- Node
+- HTML;
+- Java
